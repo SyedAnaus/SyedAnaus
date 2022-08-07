@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SyedAnaus
+- 👀 I’m interested in Data Science, Machine learning, and Embedded systems
+- 🌱 I’m currently learning Data Science and Machine Learning 
+- 📫 How to reach me at syed.anaus@gmail.com 
